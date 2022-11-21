@@ -29,5 +29,7 @@ body{
     content: "";
     position: absolute;
     background-color: orangered;
+    width: 0;
+    height: 0;
 
 }
